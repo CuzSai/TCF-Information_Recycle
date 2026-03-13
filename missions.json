@@ -3044,6 +3044,18 @@
         "isUnlockReward": false
       },
       {
+        "item": "KOMRAD",
+        "amount": 1,
+        "isEndOfChainReward": true,
+        "isUnlockReward": false
+      },
+      {
+        "item": "Legendary NV Helmet",
+        "amount": 1,
+        "isEndOfChainReward": true,
+        "isUnlockReward": false
+      },
+      {
         "item": "Laser Drill Beacon",
         "amount": 2,
         "isEndOfChainReward": false,
@@ -5405,6 +5417,12 @@
     "rewards": [
       {
         "item": "Voltaic Brute",
+        "amount": 1,
+        "isEndOfChainReward": true,
+        "isUnlockReward": false
+      },
+      {
+        "item": "KARMA-1",
         "amount": 1,
         "isEndOfChainReward": true,
         "isUnlockReward": false
@@ -8121,6 +8139,18 @@
       },
       {
         "item": "Basilisk",
+        "amount": 1,
+        "isEndOfChainReward": true,
+        "isUnlockReward": false
+      },
+      {
+        "item": "Zeus Beam",
+        "amount": 1,
+        "isEndOfChainReward": true,
+        "isUnlockReward": false
+      },
+      {
+        "item": "Legendary NV Helmet",
         "amount": 1,
         "isEndOfChainReward": true,
         "isUnlockReward": false
