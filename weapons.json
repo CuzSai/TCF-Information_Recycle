@@ -1294,7 +1294,7 @@
     "ammoInClip": 24,
     "ammoType": "Medium",
     "ammoPerBullet": 0.5,
-    "amountOfBurst": 11,
+    "amountOfBurst": 9,
     "burstInterval": 0.027,
     "amountOfImmediateFires": 1,
     "movementSpeedMultiplier": 0.9,
